@@ -28,7 +28,7 @@ twitter_username: CuchulainML
 github_username:  Cuchulain
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
